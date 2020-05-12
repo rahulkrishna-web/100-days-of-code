@@ -14,7 +14,7 @@
 
 #### Start Date
 
-May 05th, 2020.
+May 12th, 2020.
 
 ## Additional Rules
 
