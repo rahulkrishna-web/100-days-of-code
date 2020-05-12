@@ -2,19 +2,22 @@
 
 ## Contents
 
-* [About Me](about.md)
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+- [About Me](about.md)
+- [Rules](rules.md)
+- [Log - click here to see my progress](log.md)
+- [FAQ](FAQ.md)
+- [Resources](resources.md)
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+
+### _I will code for at least an hour every day for the next 100 days._
 
 #### Start Date
+
 May 05th, 2020.
 
 ## Additional Rules
+
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
@@ -22,10 +25,11 @@ May 05th, 2020.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 ## Logs
+
 ### Day 1: May 12. Tuesday
 
-**Today's Progress**: 
+**Today's Progress:** Created a React + Material-UI Starter Kit - Zen Garden.
 
-**Thoughts:** 
+**Thoughts:** First day of 100DaysOfCode is exciting. I Look forward to completing this challenge. Need to be patient and steady.
 
-**Link to work:** 
+**Link to work:** https://zen-garden.now.sh/
